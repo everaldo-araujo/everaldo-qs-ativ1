@@ -1,0 +1,1 @@
+https://github.com/oandreazza/protractor-functional-tests/blob/bad-pattern/login-spec.js
